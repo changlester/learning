@@ -1,0 +1,8 @@
+git init
+git add test.txt
+git commit -m "message"
+git remote add origin https://github.com/changlester/learning.git
+git push -u origin master
+
+git reset
+git add .
